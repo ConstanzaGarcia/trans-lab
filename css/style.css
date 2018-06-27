@@ -205,3 +205,18 @@ a:hover
 {
   transform: none;
 }
+
+.perfil_naranjo {
+    background-color: #F6A800;
+}
+
+textarea {
+	width: 70%;
+	height: 4em;
+	color: #4E4D53;
+	font-size: 15px;
+	padding: 1em;
+	border-radius: 1em;
+	border: none;
+	margin: 0 auto;
+}
