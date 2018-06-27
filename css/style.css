@@ -38,4 +38,18 @@ p {
 #sesion {
     background-color: #F6A800;
     width: 270px;
+    border-color: #F6A800;
+}
+
+#exampleInputEmail1 {
+    border-color: #F6A800;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+#exampleInputPassword1 {
+    border-color: #F6A800;
+    padding: 10px;
+    margin-bottom: 0px;
+
 }
