@@ -1,1 +1,41 @@
 /* YeyeYeee código aquí */
+
+body {
+    background-color: #3E3F41;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    padding: 10%;
+}
+
+
+#lab {
+    color: #F6A800;
+}
+
+b {
+    color: #F6A800;
+}
+
+p {
+    color: white;
+}
+
+.password {
+    color: white;
+}
+
+.olvidar {
+    text-align: left;
+}
+
+#sesion {
+    background-color: #F6A800;
+    width: 270px;
+}
